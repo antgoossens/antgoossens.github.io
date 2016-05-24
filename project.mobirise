@@ -1,10 +1,12 @@
 {
   "settings": {
-    "currentPage": "work",
+    "currentPage": "index.html",
     "versionFirst": "2.9",
     "versionPublish": "2.9",
     "name": "My Site",
     "favicon": "",
+    "path": "file:///C:/Users/hp/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-02-16_183520",
+    "screenshot": "screenshot.png",
     "publishType": "local",
     "publishPath": "file:///C:/Users/hp/Desktop/website1"
   },
@@ -22,6 +24,9 @@
             },
             ".mbr-navbar__section": {
               "background": "#cccccc"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
             }
           },
           "_name": "menu",
@@ -33,7 +38,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": false,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -44,8 +49,8 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Home.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"work.html\">WORK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"work.html\">WORK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"file:///C:/Users/hp/Desktop/website1Nederlands/index.html\">NEDERLANDS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.htmlfile:///C:/Users/hp/Desktop/website1Nederlands/index.html\" data-toolbar=\"-mbrBtnMove\"></a></li>"
         },
         {
           "_name": "gallery1",
@@ -109,7 +114,7 @@
               {
                 "thumb": "@PROJECT_PATH@/assets/images/dscf4518-2000x2513-86-2000x2513-76.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dscf4518-2000x2513-86.jpg",
-                "active": false
+                "active": true
               },
               {
                 "thumb": "@PROJECT_PATH@/assets/images/dscf4523-2000x2739-72-2000x2739-88.jpg",
@@ -129,7 +134,7 @@
               {
                 "thumb": "@PROJECT_PATH@/assets/images/dscf4529-2000x2286-14-2000x2286-87.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dscf4529-2000x2286-14.jpg",
-                "active": true
+                "active": false
               }
             ],
             "bgColor": "#efefef",
@@ -154,6 +159,9 @@
             },
             ".mbr-navbar__section": {
               "background": "#cccccc"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
             }
           },
           "_name": "menu",
@@ -165,7 +173,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": false,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -176,8 +184,8 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Home.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"work.html\">WORK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"work.html\">WORK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"file:///C:/Users/hp/Desktop/website1Nederlands/index.html\">NEDERLANDS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.htmlfile:///C:/Users/hp/Desktop/website1Nederlands/index.html\" data-toolbar=\"-mbrBtnMove\"></a></li>"
         },
         {
           "_inherit": "header1",
@@ -237,6 +245,9 @@
             },
             ".mbr-navbar__section": {
               "background": "#cccccc"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
             }
           },
           "_anchor": "menu-0",
@@ -247,7 +258,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": false,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -258,8 +269,8 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Home.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"work.html\">WORK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"work.html\">WORK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"file:///C:/Users/hp/Desktop/website1Nederlands/index.html\">NEDERLANDS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.htmlfile:///C:/Users/hp/Desktop/website1Nederlands/index.html\" data-toolbar=\"-mbrBtnMove\"></a></li>"
         },
         {
           "_name": "header1",
